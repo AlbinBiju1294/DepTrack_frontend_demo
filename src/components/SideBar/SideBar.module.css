@@ -1,0 +1,10 @@
+.sidebar_item{
+    color: #012970;
+    font-weight: 600;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.sidebar_items{
+    display: flex;
+}
